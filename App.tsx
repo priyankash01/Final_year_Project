@@ -11,7 +11,7 @@ import AppRoutes from './Routes/AppRoutes';
 import { Provider } from 'react-redux';
 import { Notifications } from '@mantine/notifications';
 import { PrimeReactProvider } from 'primereact/api';
-import Store from './Store';
+import Store from './Store'; 
 import { ModalsProvider } from '@mantine/modals';
 
 const theme = createTheme({
