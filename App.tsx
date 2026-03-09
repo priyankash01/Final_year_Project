@@ -6,7 +6,7 @@ import '@mantine/dates/styles.css';
 import '@mantine/spotlight/styles.css';
 import '@mantine/dropzone/styles.css';
 import '@mantine/charts/styles.css';
-import { createTheme, MantineProvider } from '@mantine/core';
+import { createTheme, MantineProvider } from '@mantine/core'; 
 import AppRoutes from './Routes/AppRoutes';
 import { Provider } from 'react-redux';
 import { Notifications } from '@mantine/notifications';
